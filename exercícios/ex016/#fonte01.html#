@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Trabalhando com Fontes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Titillium+Web&display=swap');
+    p {
+        text-align: justify;
+        font-family: 'Titillium Web', sans-serif;
+    }
+    </style>
+</head>
+<body>
+    <h1>fontes</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod officiis harum deleniti porro voluptatum quas, architecto dolores recusandae tempora suscipit ipsa totam adipisci molestiae esse. Corrupti culpa quae facere impedit?
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum blanditiis sapiente cum eos libero amet deleniti aliquid eum consectetur nostrum, vero alias et veritatis repellat mollitia tempore quasi ullam corrupti?
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime culpa distinctio quae minus ipsum iure consectetur ad adipisci? Voluptate perspiciatis expedita rem tempore recusandae. Ipsum qui hic ab modi ut!
+    </p>
+    <h2>subtitulo</h2>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet tempora modi molestias, maxime enim eum veniam ex explicabo vitae labore tempore voluptatum dolorem alias aperiam culpa similique ducimus praesentium! Pariatur!</p>
+    
+</body>
+
+</html>
